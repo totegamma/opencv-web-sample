@@ -1,0 +1,3 @@
+[submodule "ems/opencv"]
+	path = ems/opencv
+	url = https://github.com/opencv/opencv.git
